@@ -6,4 +6,4 @@ The other is a set of pages that I commonly use when on the Tastycat community i
 
 Repository on GitHub: https://github.com/GamePixle/Redirects/
 
-Made by: GamePixle
+Made by GamePixle
